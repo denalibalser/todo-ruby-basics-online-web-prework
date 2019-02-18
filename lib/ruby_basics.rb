@@ -20,7 +20,7 @@ end
 def return_a_value(phrase)
 phrase = "Nice"
 end
-return_a_value
+
 
 def last_evaluated_value
 
